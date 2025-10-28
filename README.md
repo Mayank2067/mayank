@@ -1,2 +1,8 @@
-# mayank
-/ C_Programs
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout << "mayank" << endl;
+    return 0;
+}
